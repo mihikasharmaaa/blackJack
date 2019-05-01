@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ player\ class\n
+comment1.params=
+comment1.target=Player()
+comment2.params=card
+comment2.target=void\ addCard(Card)
+comment2.text=\n\ add\ card\ to\ hand\ and\ increase\ the\ value\ of\ the\ hand\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getHand()
+comment3.text=\n\ get\ hand\n
+comment4.params=
+comment4.target=int[]\ getValueOfHand()
+comment4.text=\n\ get\ the\ value\ of\ the\ hand\n
+comment5.params=valueOfHand
+comment5.target=void\ setValueOfHand(int[])
+comment5.text=\n\ set\ the\ value\ of\ the\ hand\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ print\ hand\ as\ a\ string\ \n
+numComments=7

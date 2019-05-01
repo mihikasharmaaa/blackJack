@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BlackJackGui
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ init()
+comment2.text=\n\ initialize\ the\ GUI\n
+comment3.params=
+comment3.target=void\ setupNewGame()
+comment3.text=\n\ set\ up\ a\ new\ game\n
+numComments=4

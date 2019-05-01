@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DecisionMaker
+comment0.text=\n\ DecisionMaker\ class,\ includes\ methods\ to\ decide\ the\ winner\n
+comment1.params=player\ dealer
+comment1.target=DecisionMaker.Winner\ determineWinner(Player,\ Player)
+comment1.text=\n\ determine\ winner\ by\ selecting\ the\ biggest\ hand\ from\ player's\ and\ dealer's\ hands.\n\ Four\ hands\ altogether\ (player\:\ ace\=1,\ ace\=11)\ (dealer\:\ ace\=1,\ ace\=11)\ \n
+comment2.params=player
+comment2.target=boolean\ checkBlackJack(Player)
+comment2.text=\n\ check\ if\ the\ player\ has\ a\ blackjack.\n\ This\ is\ checked\ after\ the\ first\ two\ cards\ are\ dealt\n
+comment3.params=player
+comment3.target=boolean\ checkBust(Player)
+comment3.text=\n\ check\ if\ player\ bust\ (over\ 21)\n\ this\ is\ checked\ after\ hit\ button\ event\n
+numComments=4

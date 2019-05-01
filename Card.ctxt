@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=suit\ faceValue\ image
+comment1.target=Card(Card.Suit,\ Card.FaceValue,\ java.awt.Image)
+comment2.params=
+comment2.target=Card.Suit\ getSuit()
+comment2.text=\n\ get\ suit\n
+comment3.params=suit
+comment3.target=void\ setSuit(Card.Suit)
+comment3.text=\n\ set\ suit\n
+comment4.params=
+comment4.target=Card.FaceValue\ getFaceValue()
+comment4.text=\n\ get\ faceValue\n
+comment5.params=faceValue
+comment5.target=void\ setFaceValue(Card.FaceValue)
+comment5.text=\n\ set\ FaceValue\n
+comment6.params=
+comment6.target=java.awt.Image\ getImage()
+comment6.text=\n\ return\ image\n
+comment7.params=image
+comment7.target=void\ setImage(java.awt.Image)
+comment7.text=\n\ set\ image\n
+numComments=8
